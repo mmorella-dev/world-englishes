@@ -29,3 +29,12 @@ From ["The 3 Australian Accents"](https://www.youtube.com/watch?v=ZnioDeQNlxQ) b
 | Steve Irwin | Broad Australian English | <audio controls src="assets/audio/steve_irwin.mp3"></audio> |
 | Cate Blanchett | Cultivated Australian English | <audio controls src="assets/audio/cate_blanchett.mp3"></audio> |
 | Shirley Purdie | Aboriginal Australian  English| <audio controls src="assets/audio/shirley_purdie.mp3"></audio> |
+
+## Video
+
+From ["Double Babysitter"](https://www.youtube.com/watch?v=di11R4LgJRg), *Bluey* S02E25. © ABC Kids 2020
+
+<video controls preload="metadata" width="900">
+<source src="assets/video/bluey_double_babysitter.mp4">
+<track label="English" kind="subtitles" src="assets/video/bluey_subs.vtt" default srclang="english"/>
+</video>
