@@ -1,0 +1,34 @@
+/* @theme straya */
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;0,700;1,300;1,700&family=Oswald:wght@700&display=swap');
+@import 'default';
+
+
+:root {
+    --color-fg-default: white;
+    --color-border-default: hsl(194, 20%, 60%);
+    --color-border-default: hsl(194, 20%, 70%);
+    --color-canvas-default: hsl(194, 50%, 30%);
+    --color-canvas-subtle: hsl(194, 50%, 35%);
+    --color-border-default: hsl(194, 20%, 80%);
+    --color-border-muted: #d8dee4;
+    --color-neutral-muted: rgba(175,184,193,.2);
+    --color-accent-fg: #F7D046;
+    --color-accent-emphasis: #F7D046;
+    --color-attention-subtle: #fff8c5;
+    --color-danger-fg: #cf222e;
+    color-scheme: dark;
+    --h1-color: white;
+    --heading-strong-color: #192A5C;
+    background-color: #285D6D;
+    background-image: url("assets/image/stars.png"), linear-gradient(#285D6D, #79BCB0);
+}
+
+:root {
+    font-family: Karla, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+}
