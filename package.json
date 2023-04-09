@@ -1,0 +1,14 @@
+{
+  "name": "australian-englishes",
+  "version": "0.1.0",
+  "description": "",
+  "main": "hello.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mae Bailey Morella",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^2.4.0"
+  }
+}
