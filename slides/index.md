@@ -16,6 +16,8 @@ __Presented by Mae Bailey Morella__
 
 LING 3760 World Englishes
 
+[See this presentation on GitHub](https://github.com/morellam-dev/ling-3760-australian-english-presentation)
+
 ![bg right](assets/image/australia_day.jpg)
 
 <footer class="attribution">
