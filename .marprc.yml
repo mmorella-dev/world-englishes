@@ -1,0 +1,9 @@
+# .marprc.yml
+inputDir: slides/
+output: public/
+themeSet: ./themes
+html: true
+options:
+  looseYAML: false
+  markdown:
+    breaks: true
