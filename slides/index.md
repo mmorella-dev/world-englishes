@@ -159,10 +159,6 @@ From "[Interview with Aboriginal Artist Shirley Purdie](https://www.youtube.com/
 <!-- _class: lead dark -->
 (part three)
 
-<footer>
-a
-</footer>
-
 ## Early European **Exploration of Australia**
 <!-- Note to self: speed thru this. -->
 
