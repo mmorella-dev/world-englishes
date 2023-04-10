@@ -4,6 +4,7 @@ title: Introduction to Australian Englishes
 author: Mae Bailey Morella
 theme: straya
 headingDivider: 2
+paginate: true
 ---
 
 # ![width:100px Australian Flag](assets/image/aus_flag.svg)<br><small>Introduction to</small> <big>**Australian Englishes**</big>
@@ -57,7 +58,7 @@ Uhm, one thing I did in the process was, while I was trying to find speech sampl
 1. Started on Wikipedia, YouTube, Google
 2. Source-mined for better explanatory sources. Routledge Handbook
 3. Searched on IDEA, Wiktionary for speech samples
-   1. "The *Bluey* Corpus"
+   1. "[The *Bluey* Corpus](assets/bluey.html)"
 
 ![bg right Photograph of the Melbourne Parliament Hourse Library](assets/image/melbourne_library.jpg)
 
@@ -220,34 +221,8 @@ Wikipedia: [European exploration of Australia](https://en.wikipedia.org/wiki/Eur
 
 "[File:EN-AU ck1 hard yakka.ogg](https://en.wiktionary.org/wiki/File:EN-AU_ck1_hard_yakka.ogg)", "[File:En-au-butter_fingers.ogg](https://en.wiktionary.org/wiki/File:En-au-butter_fingers.ogg)" and "[File:En-au-second Tuesday of the week.ogg](https://en.wiktionary.org/wiki/File:En-au-second_Tuesday_of_the_week.ogg)" by Commander Keane are all licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en), via Wikimedia Commons.
 
-## Morphology
-<!-- TODO: VERIFY THIS -->
-
-- Compound words:
-  - Common use of compound words
-  - Creation of new words by combining existing ones
-- Inflection:
-  - Limited inflection in comparison to other English varieties
-  - Use of suffixes to indicate tense and number
-- Word formation:
-  - Use of suffixes to create new words
-  - Use of borrowing from other languages
-
-## Syntax
-<!-- TODO: VERIFY THIS -->
-
-- Inverted word order:
-  - Common use of inverted word order in questions and clauses
-  - Use of subject-verb inversion in certain constructions
-- Prepositional phrases:
-  - Use of prepositional phrases in complex sentences
-  - Omission of prepositions in certain contexts
-- Pronouns:
-  - Use of "you guys" instead of "y'all" or "you all"
-  - Use of "heaps" instead of "lots"
 
 ## Discourse
-<!-- TODO: VERIFY THIS -->
 
 <!-- -->
 - Rising intonation on declarative sentences ("uptalk")
@@ -255,10 +230,6 @@ Wikipedia: [European exploration of Australia](https://en.wikipedia.org/wiki/Eur
   - Falling intonation in questions.
 - "Yeah, nah" (no) vs. "Nah, yeah" (yes)
   - From "[28 AUSTRALIAN SLANG Words/Phrases (That You Need to Know!)](https://www.youtube.com/watch?v=RJ8ibvD2W6U)" by Welcome To. Via YouTube. <video width="500" controls src="assets/video/yeah_nah2.mp4"></video>
-
-<footer>
-
-</footer>
 
 ## Lexis
 
