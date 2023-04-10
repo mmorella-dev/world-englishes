@@ -1,5 +1,4 @@
 # .marprc.yml
-allowLocalFiles: true
 inputDir: slides/
 output: public/
 themeSet: ./themes

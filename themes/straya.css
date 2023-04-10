@@ -1,9 +1,9 @@
 /* @theme straya */
 
-@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,300;0,700;1,300;1,700&family=Oswald:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200;0,700;1,200;1,700&family=Oswald:wght@700&display=swap');
 @import 'default';
 
-
+/* Color variables */
 :root {
     --color-fg-default: white;
     --color-border-default: hsl(194, 20%, 60%);
@@ -20,15 +20,59 @@
     color-scheme: dark;
     --h1-color: white;
     --heading-strong-color: #192A5C;
-    background-color: #285D6D;
-    background-image: url("assets/image/stars.png"), linear-gradient(#285D6D, #79BCB0);
+    --header-footer-color: hsl(194, 10%, 100%);
 }
 
+/* Background */
 :root {
+    background-image: url("assets/image/stars.png"), linear-gradient(#285D6D, #79BCB0);
     font-family: Karla, sans-serif;
+    font-size: 150%;
 }
 
-h1, h2, h3 {
-    font-family: Oswald, sans-serif;
+:root.dark {
+    background: black;
+    --heading-strong-color: hsl(225, 57%, 40%);
+}
+
+:root.light {
+    color-scheme: light;
+    --color-fg-default: black;
+    --header-footer-color: hsl(194, 10%, 0%);
+    --color-accent-fg: hsl(194, 50%, 30%);
+}
+
+/* Headings */
+h1 {
     text-transform: uppercase;
+    font-family: Oswald, sans-serif;
+}
+
+/* Transparent image backgrounds */
+img {
+    background-color: transparent;
+}
+
+/* */
+:root.lead {
+    text-align: center !important;
+    font-size: 300%;
+}
+
+.ipa {
+    font-family: serif;
+}
+
+:root audio {
+    /* height: 20px; */
+    vertical-align: bottom;
+}
+
+table {
+    font-size: 0.7em;
+    float: right;
+}
+footer {
+    font-size: 0.5em;
+    line-height: 1.15;
 }
