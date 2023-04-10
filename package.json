@@ -4,12 +4,15 @@
   "description": "",
   "scripts": {
     "start": "marp -w & simple-live-server ./public/",
-    "build": "marp"
+    "build": "marp",
+    "prepublish": "npm run build",
+    "publish": "gh-pages -a -d public"
   },
   "author": "Mae Bailey Morella",
   "license": "ISC",
   "devDependencies": {
     "@marp-team/marp-cli": "^2.4.0",
+    "gh-pages": "^5.0.0",
     "simple-live-server": "^0.2.0"
   }
 }
